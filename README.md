@@ -5,7 +5,7 @@ Lover of cute UIs, clean code, and cozy projects ✨
 
 ## 🛠 Tech Stack
 
-- 🧠 Python, JavaScript, TypeScript | ⚛️ React, Tailwind, Next.js | 🌐 Express, NodeJS | 🗃 PostgreSQL, MongoDB | 🎨 UI/UX, Figma, CSS wizardry
+- 🧠 Python, JavaScript, TypeScript -- ⚛️ React, Tailwind, Next.js -- 🌐 Express, NodeJS -- 🗃 PostgreSQL, MongoDB -- 🎨 UI/UX, Figma, CSS wizardry
 
 ## 💖 Featured Projects
 
