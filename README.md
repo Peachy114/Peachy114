@@ -5,14 +5,13 @@ Lover of cute UIs, clean code, and cozy projects ✨
 
 ## 🛠 Tech Stack
 
-- 🧠 Python, JavaScript, TypeScript -- ⚛️ React, Tailwind, Next.js -- 🌐 Express, NodeJS -- 🗃 PostgreSQL, MongoDB -- 🎨 UI/UX, Figma, CSS wizardry
+- 🧠 Python, JavaScript, TypeScript  |  ⚛️ React, Tailwind, Next.js  |  🌐 Express, NodeJS  |  🗃 PostgreSQL, MongoDB |  🎨 UI/UX, Figma, CSS wizardry
 
 ## 💖 Featured Projects
 
 - [☕ Chibi Coffee Machine](https://github.com/Peachy114/Python-Capstone-and-Project)  
 - [🧮 Cute Calculator](https://github.com/Peachy114/calculator)
 
----
 
 ## 🌸 Let's Connect
 
