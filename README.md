@@ -26,13 +26,38 @@
 🎨 Figma, UI/UX, CSS wizardry
 ```
 
-### 💫 Fun Facts About Me
+### 🌟 My Dream Dev Path
 
-- 🌙 I love coding at night while sipping milk tea  
-- 🎨 I design my projects before I code them  
-- 🧩 I enjoy solving coding puzzles when I’m stuck  
-- 🎮 Dreaming of building my own cute pixel RPG game  
-- 🧁 I believe code should be ✨ functional + beautiful ✨  
+- 🌙 Developing real-world applications that solve everyday problems
+- 🎨 I aim to turn ideas into beautiful UI/UX before writing any code
+- 🧠 I challenge myself with puzzles and bugs to grow stronger each day
+- 🎮 I dream of launching my own adorable pixel RPG one day
+- 🧁 I believe code should be ✨ functional + beautiful ✨
+
+
+### 🛠 Featured Projects
+
+  [![Repositories](https://img.shields.io/badge/Repositories-❤️-white)](https://github.com/Peachy114?tab=repositories)
+  [![Leave a like](https://img.shields.io/badge/Leave%20a%20like-☕-white)](https://github.com/Peachy114)
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <h3>🐍 Python Projects & Capstone</h3>
+      <p>Terminal magic brewed with code ✨</p>
+    </td>
+    <td align="left">
+      <a href="https://github.com/Peachy114">
+        <img src="https://img.shields.io/badge/Blackjack%20Python-♦️%20Game-blueviolet?style=for-the-badge" alt="Blackjack Python"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Peachy114">
+        <img src="https://img.shields.io/badge/Coffee%20Machine%20Python-☕%20CLI-brown?style=for-the-badge" alt="Coffee Machine Python"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🌸 Let's Connect!
