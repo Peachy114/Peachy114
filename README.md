@@ -40,21 +40,11 @@
   [![Repositories](https://img.shields.io/badge/Repositories-❤️-white)](https://github.com/Peachy114?tab=repositories)
   [![Leave a like](https://img.shields.io/badge/Leave%20a%20like-☕-white)](https://github.com/Peachy114)
 
-<table>
-  <tr>
-    <td width="40%" align="center">
-      <h3>🐍 Python Projects & Capstone</h3>
-      <p>Terminal magic brewed with code ✨</p>
-    </td>
-    <td align="left">
-      <ul>
-        <li>BlackJack </li>
-        <li>Calculator </li>
-        <li>Coffee Machine </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🐍 Python Projects & Capstone  
+  - Python-Capstone-and-Project | CLI & Showcasing my capstone and projects
+
+
+<hr/>
 
 ### 🌸 Let's Connect!
 
