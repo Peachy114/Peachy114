@@ -18,6 +18,15 @@
 🎨 Figma, UI/UX, CSS wizardry
 ```
 
+### 💫 Fun Facts About Me
+
+- 🌙 I love coding at night while sipping milk tea  
+- 🎨 I design my projects before I code them  
+- 🧩 I enjoy solving coding puzzles when I’m stuck  
+- 🎮 Dreaming of building my own cute pixel RPG game  
+- 🧁 I believe code should be ✨ functional + beautiful ✨  
+
+
 ### 🌸 Let's Connect!
 
 [🌐 Portfolio](https://fatma-portfolio-n58033p0n-peachy114s-projects.vercel.app/)
