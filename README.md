@@ -1,5 +1,8 @@
 # 🍓 Hi! I'm Fatma 🌸
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RvbGttN3Y2azBrcGNnMGw1dTJ5cmVoMHB4ejhxdWJoN3I4YjJuZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEdv6t8vQXjFdyZcI/giphy.gif" width="300"/>
+
+
 Aspiring fullstack wizard 🧙‍♀️ who brews code with coffee ☕  
 Lover of cute UIs, clean code, and cozy projects ✨
 
