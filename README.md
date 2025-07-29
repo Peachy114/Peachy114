@@ -1,6 +1,6 @@
 # 🍓 Hi! I'm Fatma 🌸
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RvbGttN3Y2azBrcGNnMGw1dTJ5cmVoMHB4ejhxdWJoN3I4YjJuZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEdv6t8vQXjFdyZcI/giphy.gif" width="300"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE2bjF0N25xMTBzcWh6ejJkZDJzZTR6aWZwZmdmODF0enVqd3oyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GXWsHlH8fsBdux3iVo/giphy.gif" width="300"/>
 
 
 Aspiring fullstack wizard 🧙‍♀️ who brews code with coffee ☕  
