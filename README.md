@@ -1,40 +1,29 @@
-# 🌸 Hi there! I'm Fatma 🍓
+# 🍓 Hi! I'm Fatma 🌸
 
-💻 I'm a passionate web developer + aspiring fullstack wizard.  
-✨ I love turning coffee ☕ and code into magical projects!
-
----
-
-## 🛠 My Tech Stack
-
-- 🧠 Python, JavaScript, TypeScript
-- ⚛️ React, Tailwind, Next.js
-- 🌐 Express, NodeJS
-- 🗃 PostgreSQL, MongoDB
-- 🎨 UI/UX, Figma, CSS wizardry
+Aspiring fullstack wizard 🧙‍♀️ who brews code with coffee ☕  
+Lover of cute UIs, clean code, and cozy projects ✨
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Tech Stack
 
-- ✨ [Chibi Coffee Machine](https://github.com/yourusername/Python-Capstone-and-Project)
-- 🧮 [JS Calculator](https://github.com/yourusername/calculator)
-
----
-
-## 🌸 Fun Facts
-
-- 💖 I love anime, cute UIs, and cozy projects
-- 🐣 I’m always learning and building one project at a time
-- 🧋 Bubble tea is life
+React · Tailwind · Next.js  
+Python · Node.js · Express  
+PostgreSQL · MongoDB
 
 ---
 
-## 📫 Let's Connect
+## 💖 Featured Projects
 
-[Portfolio Website](https://fatma-portfolio-n58033p0n-peachy114s-projects.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/fatmagabuya/) | [Twitter](https://twitter.com/PeachyPeachy_1)
+- [☕ Chibi Coffee Machine](https://github.com/Peachy114/Python-Capstone-and-Project)  
+- [🧮 Cute Calculator](https://github.com/Peachy114/calculator)
 
 ---
 
-> 🐣 “Do what you love, and code the rest later.” – Me
+## 🌸 Let's Connect
 
+[Portfolio](https://fatma-portfolio-n58033p0n-peachy114s-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fatmagabuya/) · [Twitter](https://twitter.com/PeachyPeachy_1)
+
+---
+
+> 💬 “Code like it’s magical. Debug like a boss.” – Me
