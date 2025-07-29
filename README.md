@@ -6,9 +6,8 @@
     <td>
       <h1 align="center">🍓 Hello, I'm Fatma! 🌸</h1>
       <p align="center">
-        <strong>Aspiring fullstack wizard 🧙‍♀️</strong> who brews code with coffee ☕<br/>
-        Lover of cute UIs, clean code, and cozy projects ✨
-      </p>
+       <strong> Aspiring Full-Stack Developer </strong> Fwith hands-on experience from a Udemy bootcamp (Feb–June 2025).
+        Passionate about building clean, responsive apps and continuously leveling up through real-world projects.
       <p align="center">
       <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9oZzEzbmtxcGN3ejViMHhsOWY2MGVqYzR4NGQwbDdrMnNpbjM0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif'
      width='100'/>
