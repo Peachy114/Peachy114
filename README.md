@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🌸 Hi there! I'm Fatma 🍓
 
-<!--
-**Peachy114/Peachy114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a passionate web developer + aspiring fullstack wizard.  
+✨ I love turning coffee ☕ and code into magical projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My Tech Stack
+
+- 🧠 Python, JavaScript, TypeScript
+- ⚛️ React, Tailwind, Next.js
+- 🌐 Express, NodeJS
+- 🗃 PostgreSQL, MongoDB
+- 🎨 UI/UX, Figma, CSS wizardry
+
+---
+
+## 📌 Featured Projects
+
+- ✨ [Chibi Coffee Machine](https://github.com/yourusername/Python-Capstone-and-Project)
+- 🧮 [JS Calculator](https://github.com/yourusername/calculator)
+
+---
+
+## 🌸 Fun Facts
+
+- 💖 I love anime, cute UIs, and cozy projects
+- 🐣 I’m always learning and building one project at a time
+- 🧋 Bubble tea is life
+
+---
+
+## 📫 Let's Connect
+
+[Portfolio Website](https://fatma-portfolio-n58033p0n-peachy114s-projects.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/fatmagabuya/) | [Twitter](https://twitter.com/PeachyPeachy_1)
+
+---
+
+> 🐣 “Do what you love, and code the rest later.” – Me
+
