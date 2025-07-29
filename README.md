@@ -7,9 +7,7 @@ Lover of cute UIs, clean code, and cozy projects ✨
 
 ## 🛠 Tech Stack
 
-React · Tailwind · Next.js  
-Python · Node.js · Express  
-PostgreSQL · MongoDB
+- 🧠 Python, JavaScript, TypeScript - ⚛️ React, Tailwind, Next.js - 🌐 Express, FastAPI - 🗃 PostgreSQL, MongoDB - 🎨 UI/UX, Figma, CSS wizardry
 
 ---
 
