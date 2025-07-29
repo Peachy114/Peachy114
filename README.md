@@ -34,14 +34,7 @@
 - 🧁 I believe code should be ✨ functional + beautiful ✨
 
 
-### 🛠 Featured Projects
-
-  [![Repositories](https://img.shields.io/badge/Repositories-❤️-white)](https://github.com/Peachy114?tab=repositories)
-  [![Leave a like](https://img.shields.io/badge/Leave%20a%20like-☕-white)](https://github.com/Peachy114)
-
-- 🐍 Python Projects & Capstone  
-  - Python-Capstone-and-Project | CLI & Showcasing my capstone and projects
-
+[![Repositories](https://img.shields.io/badge/Repositories-❤️-white)](https://github.com/Peachy114?tab=repositories)  [![Leave a like](https://img.shields.io/badge/Leave%20a%20like-☕-white)](https://github.com/Peachy114)
 
 <hr/>
 
