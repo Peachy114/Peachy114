@@ -3,13 +3,9 @@
 Aspiring fullstack wizard 🧙‍♀️ who brews code with coffee ☕  
 Lover of cute UIs, clean code, and cozy projects ✨
 
-##
-
 ## 🛠 Tech Stack
 
 - 🧠 Python, JavaScript, TypeScript - ⚛️ React, Tailwind, Next.js - 🌐 Express, FastAPI - 🗃 PostgreSQL, MongoDB - 🎨 UI/UX, Figma, CSS wizardry
-
-##
 
 ## 💖 Featured Projects
 
