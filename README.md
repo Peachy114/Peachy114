@@ -47,18 +47,14 @@
       <p>Terminal magic brewed with code ✨</p>
     </td>
     <td align="left">
-      <a href="https://github.com/Peachy114">
-        <img src="https://img.shields.io/badge/Blackjack%20Python-♦️%20Game-blueviolet?style=for-the-badge" alt="Blackjack Python"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Peachy114">
-        <img src="https://img.shields.io/badge/Coffee%20Machine%20Python-☕%20CLI-brown?style=for-the-badge" alt="Coffee Machine Python"/>
-      </a>
+      <ul>
+        <li>BlackJack </li>
+        <li>Calculator </li>
+        <li>Coffee Machine </li>
+      </ul>
     </td>
   </tr>
 </table>
-
-
 
 ### 🌸 Let's Connect!
 
