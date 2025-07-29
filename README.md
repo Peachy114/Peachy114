@@ -1,12 +1,18 @@
-<h1 align="center">🍓 Hi! I'm Fatma 🌸</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5oZjUxczFza2F3bndwbjZkZ3czdzA3aWpibWxsNXQ2dXF6dXl6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" width="300"/>
+  <img src="https://i.pinimg.com/1200x/34/93/97/34939700d99f11b4eba851924d999f6c.jpg" width="1000"/>
 </p>
+
+<h1 align="center">🍓 Hello, I'm Fatma! 🌸</h1>
 
 <p align="center">
   <strong>Aspiring fullstack wizard 🧙‍♀️</strong> who brews code with coffee ☕<br/>
   Lover of cute UIs, clean code, and cozy projects ✨
+</p>
+
+<p align="center">
+    <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9oZzEzbmtxcGN3ejViMHhsOWY2MGVqYzR4NGQwbDdrMnNpbjM0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif'
+   width='100'/>
 </p>
 
 
