@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?Peachy114=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Peach114)](https://git.io/streak-stats)
 
 
 ```
