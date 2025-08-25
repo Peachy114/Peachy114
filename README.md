@@ -16,8 +16,6 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Peachy114&theme=github-dark-blue)](https://git.io/streak-stats)
-
 
 ```
 🛠 Tech Stack
