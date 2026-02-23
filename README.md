@@ -40,7 +40,6 @@
 
 ### 🌸 Let's Connect!
 
-🌐 [Portfolio](https://fatma-portfolio-n58033p0n-peachy114s-projects.vercel.app/)
 💼 [LinkedIn](https://www.linkedin.com/in/fatmagabuya/)
 🐦 [Twitter](https://twitter.com/PeachyPeachy_1)
 
